@@ -10,7 +10,7 @@
     "isomorphic-fetch": "^2.2.1",
     "jquery": "^3.3.1",
     "js-cookie": "^2.2.0",
-    "rc-slider": "^8.6.3",
+    "rc-slider": "8.7.1",
     "re-base": "^4.0.0",
     "react": "^16.0.0",
     "react-bootstrap": "^0.31.5",
